@@ -272,6 +272,9 @@ section.wrapper, article.wrapper {
 			display: none;
 		}
 
+    body {
+      width: fit-content;
+    }
         @media (max-width: 390px) {
           #banner h1 {
             font-size: 19px;
